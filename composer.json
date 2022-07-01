@@ -1,0 +1,12 @@
+{
+    "name": "ctrlweb/expressive-zenddbwrapper",
+    "autoload": {
+        "psr-4": {
+            "Ctrlweb\\Expressive\\ZendDbWrapper\\": "src/"
+        }
+    },
+    "require": {
+        "zendframework/zend-db": "^2.8",
+        "zendframework/zend-hydrator": "^2.3"
+    }
+}
